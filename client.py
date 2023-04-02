@@ -4,6 +4,8 @@ import tkinter as tk
 from tkinter import scrolledtext
 from tkinter import messagebox
 
+#This is a Client Side Code
+
 HOST = '192.168.204.115'
 PORT = 5050
 
